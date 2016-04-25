@@ -8,4 +8,4 @@ note: 1、git diff 比较本地与stage区；git diff --cached 比较stage与版
 3、git log是啥
 4、如果以mxw登陆记录修改？
 5、只要把每台电脑的Key都添加到GitHub，就可以在每台电脑上往GitHub推送（所以一个SSH密钥对应一台电脑？）
-master_1
+working_master_modified in bbb
