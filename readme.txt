@@ -11,3 +11,4 @@ note: 1、git diff 比较本地与stage区；git diff --cached 比较stage与版
 
 ggg
 ggg
+i'm another
